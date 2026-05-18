@@ -22,3 +22,24 @@
 
 - **reports/**: Report files summarizing analysis findings and recommendations.
   - *taxi_analysis_report.txt*: Text file containing analysis findings and recommendations.
+
+## **How to Use**
+1. Clone the repository to your local machine:
+```bash
+   git clone https://github.com/ajaykarthikpogula0101/Taxi-Analysis.git
+```
+2. Navigate to the project directory:
+```bash
+   cd Taxi-Analysis
+```
+3. Follow the steps outlined in the notebooks/ directory for data cleaning, analysis, and visualization.
+4. Open the Power BI file (Taxi Analysis.pbix) to explore the visualizations and dashboards.
+5. Review the analysis findings and recommendations in the report file (taxi_analysis_report.txt).
+
+## **Dependencies**
+- **Python 3.x**
+- **Jupyter Notebook**
+- **Power BI Desktop**
+
+## **Acknowledgements**
+The sample datasets used in this project were provided by NYC Gov (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
